@@ -2,4 +2,12 @@
 title: "A quarto document"
 format: html
 editor: visual
+author: "Juliana CAPITANACHI GAUTHY & Laura SADOU"
 ---
+
+```{r}
+here::i_am("Bob and Alice.Rproj")
+library(here)
+```
+
+## This is my first section
